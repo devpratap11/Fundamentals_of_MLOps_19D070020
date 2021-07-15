@@ -1,4 +1,4 @@
-https://github.com/devpratap11/MLOps_Assignment.git
+Assingment Repo link: https://github.com/devpratap11/MLOps_Assignment.git
 
 Commands for part1:
 
