@@ -25,4 +25,4 @@ f1 score = 0.8876357755960527
 accuracy score = 0.9995611109160493  
 f1 score = 0.9276357755960527
 
-![AWS Bucket screenshot](https://github.com/devpratap11/Fundamentals_of_MLOps_19D070020/blob/main/Week2/screenshot.png "AWS Bucket screenshot")
+![AWS Bucket screenshot](https://github.com/devpratap11/Fundamentals_of_MLOps_19D070020/blob/main/Week2/screenshot.png "AWS Bucket screenshot")  
